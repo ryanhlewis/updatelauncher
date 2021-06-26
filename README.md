@@ -1,2 +1,3 @@
-# updatelauncher
-An automatic updater for your applications. This will check for new versions, download, unzip, as well as run your app.
+# Example App
+
+This is just a storing location for the example download ZIP and its respective version.
