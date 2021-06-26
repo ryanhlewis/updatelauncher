@@ -15,6 +15,8 @@ This tool will do exactly that, and you can change around all neccesary values t
 It runs instead of your initial launcher or program. If an update is needed, the GUI will appear and the update will download and open after installing.
 If an update isn't needed, the program simply launches your app right away without ever showing anything.
 
+## Example 
+
 To see it in action, download and run the example updater:    
 https://github.com/ryanhlewis/updatelauncher/blob/exampleapp/Updater.exe?raw=true  
 After that, check your Registry under Current User/Software/Doge and File Explorer under AppData/Local/Doge to see what the program does, or rather, read below!
