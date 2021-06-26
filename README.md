@@ -57,7 +57,7 @@ You have a customized Updater readily available!
 
 ## Extra Info
 
-This Updater will install your game files to /AppData/Local/[appName]  
+This Updater will install your program/game files to /AppData/Local/[appName]  
   
 If you would rather have them in Program Files, obtain Admin Permission by adding this line to your manifest   
 ```<requestedExecutionLevel level="requireAdministrator" uiAccess="false" />```  
